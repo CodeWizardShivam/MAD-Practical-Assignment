@@ -4,16 +4,16 @@
 ### CO-1
 
 1. Design Login activity and implement control events : Use EditText, Checkbox and Buttons 
-2.Implement Practical 1 using following layouts:
-  1. Linear Layout 2. Relative Layout 3. Table Layout
-3.Create Activities & implement following
-  1. Implicit intent 2. Explicit Intent 3. StartActivityForResult
+2. Implement Practical 1 using following layouts:
+   1. Linear Layout 2. Relative Layout 3. Table Layout
+3. Create Activities & implement following
+   1. Implicit intent 2. Explicit Intent 3. StartActivityForResult
 4. Implement activity Lifecycle and State Callbacks 
 
 ### CO-2
 5. Practical : Use an Options Menu 
-6.Create a Recycler View and list the details of student using following fields:
-  1. Name 2. Address 3. Photo (Image) 4. Delete ( Button Operation)
+6. Create a Recycler View and list the details of student using following fields:
+   1. Name 2. Address 3. Photo (Image) 4. Delete ( Button Operation)
 7. Practical: Theme, Custom Styles, Drawables 
 
 ### CO-3
