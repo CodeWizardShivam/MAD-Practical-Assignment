@@ -1,4 +1,5 @@
-# MAD-Practical-Assignment
+# Mobile Application Development (3170726)
+## Practical Assignment
 ## Enrollment Number:180090107030
 
 ### CO-1
